@@ -1,0 +1,21 @@
+<resources>
+    // LOGIN
+    <string name="login_title">Gym</string>
+    <string name="login_label">Ingresar</string>
+    <string name="id_label">Identificación</string>
+    <string name="password_label">Contraseña</string>
+    <string name="welcome_label">Bienvenido(a)</string>
+    <string name="type_data_login_label">Digita tus datos para continuar</string>
+    <string name="new_client_label">-- Eres nuevo(a)? Inscríbete ahora mismo! --</string>
+    // SIGN UP
+    <string name="sign_up_title">Inscripción</string>
+    <string name="sign_up_label">Inscribirse</string>
+    <string name="name_label">Nombre</string>
+    <string name="last_name_label">Apellidos</string>
+    <string name="phone_label">Número Telefónico</string>
+    <string name="confirm_password_label">Confirmar contraseña</string>
+    <string name="type_data_signup_label">Digita tus datos para inscribirte</string>
+    <string name="registered_client_label">-- Ya estás inscrito(a)? Ingresa ahora mismo! --</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
